@@ -1,4 +1,4 @@
-Bahmni.ConceptSet.FormConditions.rules = {
+MaliniBahmni.ConceptSet.FormConditions.rules = {
     'Blood Pressure' : function (formName, formFieldValues) {
         var bloodPressure = formFieldValues['Blood Pressure'];
         var regex = /\d/g;
